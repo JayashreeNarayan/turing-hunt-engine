@@ -1,49 +1,75 @@
-¶
-«
-ƾ
-ǁ
-ǂ
-ʘ
-٭
-‗
-↑
-∩
-∴
-≎
-≐
-⌂
-⌕
-⌻
-☠
-☢
-☭
-☨
-♅
-♔
-♫
-⚠
-✏
-✉
-⚙
-✕
-✡
-❖
-➯
-➶
-꜔
-�
-⬚
-┌
-─
-┤  
-├
-┐
-┌
-│
-┴
-┘  
-└
-┴
-┘
-└                                                                
+¶ « ƾ ǁ ǂ ʘ ٭ ‗ ↑ ∩ ∴ ≎ ≐ ⌂ ⌕ ⌻ ☠ ☢ ☭ ☨ ♅ ♔ ♫ ⚠ ✏ ✉ ⚙ ✕ ✡ ❖ ➯ ➶ ꜔ � ⬚ ┌ ─ ┤  ├ ┐ ┌ │ ┴ ┘   └ ┴ ┘ └                                                            
 ┬
+
+
+
+Vertical Border: ▎ 
+Shrubs: ▗
+Horizontal Border: ▂
+Blocks for walls or something?: ▉
+Stairs: ▞ (down), ▚ (up)
+Other Blocks: ▊, ▟
+Grass: ░ (rec), ▓, others: ▒
+threshold: ═
+Transition: ʘ, →, ↑, ←, ↓
+Designs for inside buildings: ⌻,✡,❖ 
+
+Professor: 
+Facts: 裂
+Star: 
+pit: 
+PhD student:
+Animal centre:豈, 
+Clothes:, 慨, 憎, , , 
+Flash: 
+\
+Pixel: 
+kaustav: , 𝛗
+sound clue: 
+Turing logo: 
+guard: 
+WiPMA: רּ
+Sourav: 
+drink: , , 
+aniket: 
+drunk boi: 
+X mark sthe spot:
+red car: ﲩ
+Julia: 
+mess changes: 﫱
+burger in mess: 
+wing crossover: 
+diary: 
+ID card: 
+laptop: 
+aria: 
+amazon: 
+aria shade: 
+lift: 
+no elec: 
+hostels not found: 
+++: 駱
+cron: 
+shoe lost: 
+single: וֹ
+lsd: 更
+woman: רּ
+sachin:
+tea: 
+camera: 
+god: 滛
+aksey: שּ
+
+Horizontal border: ─    % Note that this renders weirdly on notepad
+Vertical border: │
+Corners: ┘ ┌ └ ┐
+Interesting characters: # I have not tested these yet
+…
+‼
+┄
+┆
+┈
+┊
+╌
+╎
+
